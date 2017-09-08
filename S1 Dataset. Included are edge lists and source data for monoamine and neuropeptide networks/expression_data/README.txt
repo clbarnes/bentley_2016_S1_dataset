@@ -11,6 +11,8 @@ Individual neurons are listed, rather than pairs/classes.
 
 Neurons whose name includes a number are not zero-padded, for compatibility with community resources like OpenWorm and WormBase.
 
+The expression data includes some neuropeptides and putative receptors (such as ntr-2) which are not represented in the neuropeptide -> receptor mappings, because of insufficient data suggesting such a mapping. As such, they do not appear in the edge lists or affect our analyses. They are included here for completeness, as a snapshot of the best neuropeptide/ putative receptor expression information we have available on publication.
+
 FILE LIST
 ---------
 monoamine_expression.tsv
