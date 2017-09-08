@@ -4,3 +4,4 @@ expression_data/ is a directory containing the expression data used for these an
 
 Both formats are readily consumed by Microsoft Excel, LibreOffice Calc, Google Sheets and the majority of programming languages.
 
+This data is also available in a github repository at https://github.com/clbarnes/bentley_2016_S1_dataset
